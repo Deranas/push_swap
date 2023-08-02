@@ -42,4 +42,6 @@ int isnum(char *argv);
 int issign(char c);
 int check_input(char **argv);
 
+int stack_size(t_stack *stack);
+
 #endif
